@@ -11,7 +11,7 @@ int main() {
 			if (temp%div == 0)
 				cnt++;
 		}
-		if (cnt == 2)	//temp가 소수
+		if (cnt == 2)	
 			result++;
 		cnt = 0;
 	}
